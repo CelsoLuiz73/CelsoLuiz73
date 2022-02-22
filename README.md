@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CelsoLuiz73
+- 👀 I'm interested in the Kotlin programming language. I'm a beginner, but I have a lot of willpower to learn.
+- 🌱 I'm currently learning Android/Kotlin, but I'm very interested in learning Java as well.
+- 💞️ I try to collaborate by posting my apps to serve as a model for other people who are learning too.
+- 📫 How to reach me: through my email oclinfo21@gmail.com
